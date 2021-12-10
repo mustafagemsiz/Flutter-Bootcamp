@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.yemek_fikirleri">
    <application
-        android:label="yemek_fikirleri"
+        android:label="Menü Önerisi"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
